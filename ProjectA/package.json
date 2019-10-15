@@ -1,0 +1,15 @@
+{
+  "name": "environment_logger",
+  "version": "1.0.0",
+  "description": "Logs temperature, light level and humidity in the surrounding environment during a day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blynk-library": "^0.5.4",
+    "onoff": "^5.0.0"
+  }
+}
